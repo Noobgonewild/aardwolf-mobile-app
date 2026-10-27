@@ -5,13 +5,10 @@ Mudlet add-ons built in and adapted for a phone screen. No Mudlet or MUSHclient 
 the app, log in, play.
 
 <p align="center">
- <img width="1080" height="2316" alt="snd" src="https://github.com/user-attachments/assets/feff737f-aa13-4861-997d-2107293cfd24" />
-<img width="440" height="924" alt="party" src="https://github.com/user-attachments/assets/f3d73ab1-0e71-40c3-9949-43cea4820482" />
-<img width="1080" height="2316" alt="game" src="https://github.com/user-attachments/assets/92350c89-2abf-4a95-bd3b-ee45c62f6769" />
-<img width="1080" height="2316" alt="edit-button" src="https://github.com/user-attachments/assets/b71e44b1-8005-43ce-9521-8498b9271836" />
-<img width="434" height="916" alt="character" src="https://github.com/user-attachments/assets/2f4e2c2e-d97e-497a-ab26-2bba50c7ebb0" />
-<img width="1080" height="2316" alt="addons" src="https://github.com/user-attachments/assets/9fb75761-55c9-4b9e-a205-2fa360c1768e" />
-
+  <img src="screenshots/game.jpg" width="200" alt="Game output" />
+  <img src="screenshots/snd.jpg" width="200" alt="Search and Destroy campaign tab" />
+  <img src="screenshots/character.jpg" width="200" alt="Character window" />
+  <img src="screenshots/party.jpg" width="200" alt="Group monitor" />
 </p>
 
 ## Features
