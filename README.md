@@ -2,6 +2,7 @@
 Android repo for a custom made Aardwolf APK
 
 The mobile client includes multiple built in addons for Aardwolf. It can use imported mapper, snd databases.
+The file must be extracted first!
 
 <img width="1080" height="2316" alt="Screenshot_20261025_221519_Aardwolf" src="https://github.com/user-attachments/assets/0cb174e1-d45d-4c35-b963-e0cfd9f6fcc9" />
 <img width="1080" height="2316" alt="modify bottom" src="https://github.com/user-attachments/assets/b0894cfb-827e-4176-b97c-db0939f66ccb" />
