@@ -1,4 +1,4 @@
-# Aardwolf Mobile
+# Pocketwolf
 
 A standalone Android client for [Aardwolf MUD](https://www.aardwolf.com), with the popular
 Mudlet add-ons built in and adapted for a phone screen. No Mudlet or MUSHclient needed: install
